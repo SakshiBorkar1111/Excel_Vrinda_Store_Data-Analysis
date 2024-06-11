@@ -1,6 +1,6 @@
 Excel Data Analysis Project- Vrinda store Data Analysis Report
 
-Objective: To create an anual sales report for 2022. So that, Vrinda can understand their customers and grow more slaes in 2023
+Objective: To create an anual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023
 
 Steps:
 1) Data Cleaning
