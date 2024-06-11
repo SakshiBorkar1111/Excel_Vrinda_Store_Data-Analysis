@@ -12,6 +12,6 @@ Insights:
 - Womens are more likely to buy compared to men(64%)
 - Adult Age group between 30-49 yrs is max contributing(50%)
 
-  Conclusion: Target women customers of age group 30-49 yrs living in maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Myntra and Flipkart
+Conclusion: Target women customers of age group 30-49 yrs living in maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Myntra and Flipkart
 
   
