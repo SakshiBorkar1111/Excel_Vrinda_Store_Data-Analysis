@@ -2,9 +2,10 @@ Excel Data Analysis Project- Vrinda store Data Analysis Report
 
 Objective: To create an anual sales report for 2022. So that, Vrinda can understand their customers and grow more slaes in 2023
 
-Steps: 1) Data Cleaning
-       2) Data Processing
-       3) Data Analysis
+Steps:
+1) Data Cleaning
+2) Data Processing
+3) Data Analysis
 
 Insights: 
 - Maharashtra, Karnataka and Uttar Pradesh are the top 3 States having highest sales(35%)
