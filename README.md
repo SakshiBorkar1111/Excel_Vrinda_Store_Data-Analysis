@@ -6,6 +6,9 @@ Steps:
 1) Data Cleaning
 2) Data Processing
 3) Data Analysis
+4) Data Visualization
+5) Report
+6) Insights
 
 Insights: 
 - Maharashtra, Karnataka and Uttar Pradesh are the top 3 States having highest sales(35%)
