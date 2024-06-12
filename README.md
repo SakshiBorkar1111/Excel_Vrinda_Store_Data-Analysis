@@ -10,6 +10,15 @@ Steps:
 5) Report
 6) Insights
 
+Key Findings:
+- Comparison of the sales and order in 2022 for the store?
+- Which month got the highest sales and orders ?
+- Who purchased more products men or women?
+- What are the different order status of 2022?
+- List of Top 5 states contributing to the maximum sales?
+- Relation between age and gender based on number of orders?
+- Which channel is contributing to maximum sales ?
+
 Insights: 
 - Maharashtra, Karnataka and Uttar Pradesh are the top 3 States having highest sales(35%)
 - Amazon, Flipkart and Myntra channels having highest contrubuting count(80%)
